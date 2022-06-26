@@ -1,0 +1,2017 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "629fd3855fd9473d2bc7615b"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venues": [
+            {
+                "id": "4cdb645dfc9737047115cf05",
+                "name": "Newark Marshland",
+                "contact": {
+                },
+                "location": {
+                    "address": "Thornton Ave.",
+                    "crossStreet": "at Jarvis Ave.",
+                    "lat": 37.49229399862877,
+                    "lng": -122.06634521484375,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.49229399862877,
+                            "lng": -122.06634521484375
+                        }
+                    ],
+                    "distance": 1617,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": 9151314444933686322,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">Thornton Ave.<\/span> (at Jarvis Ave.)",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/newark-marshland\/4cdb645dfc9737047115cf05",
+                "canonicalPath": "\/v\/newark-marshland\/4cdb645dfc9737047115cf05",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e2941735",
+                        "name": "Beach",
+                        "pluralName": "Beaches",
+                        "shortName": "Beach",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/beach_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/beach",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 6,
+                    "checkinsCount": 7
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5234b11311d28190d51575ce",
+                "name": "Newark Slough Trail",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.518816837157914,
+                    "lng": -122.06665248751601,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.518816837157914,
+                            "lng": -122.06665248751601
+                        }
+                    ],
+                    "distance": 1992,
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -195012522,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/newark-slough-trail\/5234b11311d28190d51575ce",
+                "canonicalPath": "\/v\/newark-slough-trail\/5234b11311d28190d51575ce",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d159941735",
+                        "name": "Trail",
+                        "pluralName": "Trails",
+                        "shortName": "Trail",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/hikingtrail_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/hikingtrail",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 16,
+                    "checkinsCount": 21
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f45574158cc6d1420564c8a",
+                "name": "7-Eleven",
+                "contact": {
+                    "phone": "8135505995",
+                    "formattedPhone": "(813) 550-5995"
+                },
+                "location": {
+                    "address": "11348 S US HWY 301",
+                    "lat": 27.835538,
+                    "lng": -82.327641,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 27.835538,
+                            "lng": -82.327641
+                        }
+                    ],
+                    "distance": 3846073,
+                    "postalCode": "33569",
+                    "cc": "US",
+                    "city": "Riverview",
+                    "state": "FL",
+                    "country": "Съединени щати",
+                    "contextLine": "Riverview, FL",
+                    "contextGeoId": 72057594042098092,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">11348 S US HWY 301<\/span>",
+                        "<span itemprop=\"addressLocality\">Riverview<\/span>, <span itemprop=\"addressRegion\">FL<\/span> <span itemprop=\"postalCode\">33569<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/7eleven\/5f45574158cc6d1420564c8a",
+                "canonicalPath": "\/v\/7eleven\/5f45574158cc6d1420564c8a",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d118951735",
+                        "name": "Grocery Store",
+                        "pluralName": "Grocery Stores",
+                        "shortName": "Grocery Store",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/food_grocery",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 6,
+                    "checkinsCount": 6
+                },
+                "url": "https:\/\/www.7-eleven.com\/locations\/fl\/riverview\/11348-s-us-hwy-301-38247",
+                "urlSig": "lLR2LdRXuSbWbxmzoWQEFRBpZM8=",
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "venuePage": {
+                    "id": "1364518142"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "556f676fbd6a75a99038d8e9"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f57bb127c3eba1a6438193d",
+                "name": "Shell",
+                "contact": {
+                },
+                "location": {
+                    "address": "1845 Webster Ave",
+                    "lat": 40.846705,
+                    "lng": -73.901763,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.846705,
+                            "lng": -73.901763
+                        }
+                    ],
+                    "distance": 4121676,
+                    "postalCode": "10457",
+                    "cc": "US",
+                    "neighborhood": "Mount Hope",
+                    "city": "Bronx",
+                    "state": "NY",
+                    "country": "Съединени щати",
+                    "contextLine": "Bronx, NY",
+                    "contextGeoId": 72057594043038202,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">1845 Webster Ave<\/span>",
+                        "<span itemprop=\"addressLocality\">The Bronx<\/span>, <span itemprop=\"addressRegion\">NY<\/span> <span itemprop=\"postalCode\">10457<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/shell\/5f57bb127c3eba1a6438193d",
+                "canonicalPath": "\/v\/shell\/5f57bb127c3eba1a6438193d",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d113951735",
+                        "name": "Gas Station",
+                        "pluralName": "Gas Stations",
+                        "shortName": "Gas Station",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/gas_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/gas",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "556f7a12bd6a75a9903bddb6"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f3be67f23e9045f21221eb5",
+                "name": "7-Eleven",
+                "contact": {
+                },
+                "location": {
+                    "address": "7120 Bob Bullock Loop",
+                    "lat": 27.559193,
+                    "lng": -99.445853,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 27.559193,
+                            "lng": -99.445853
+                        }
+                    ],
+                    "distance": 2386385,
+                    "postalCode": "78041",
+                    "cc": "US",
+                    "city": "Ларедо",
+                    "state": "TX",
+                    "country": "Съединени щати",
+                    "contextLine": "Ларедо, TX",
+                    "contextGeoId": 72057594042633285,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">7120 Bob Bullock Loop<\/span>",
+                        "<span itemprop=\"addressLocality\">&#1051;&#1072;&#1088;&#1077;&#1076;&#1086;<\/span>, <span itemprop=\"addressRegion\">TX<\/span> <span itemprop=\"postalCode\">78041<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/7eleven\/5f3be67f23e9045f21221eb5",
+                "canonicalPath": "\/v\/7eleven\/5f3be67f23e9045f21221eb5",
+                "categories": [
+                    {
+                        "id": "4d954b0ea243a5684a65b473",
+                        "name": "Convenience Store",
+                        "pluralName": "Convenience Stores",
+                        "shortName": "Convenience Store",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/conveniencestore_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "556f676fbd6a75a99038d8e9"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f3c303ed44f5d78c31a4ceb",
+                "name": "7-Eleven",
+                "contact": {
+                },
+                "location": {
+                    "address": "3302 E Business Hwy 83",
+                    "lat": 26.167848,
+                    "lng": -98.036521,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 26.167848,
+                            "lng": -98.036521
+                        }
+                    ],
+                    "distance": 2589215,
+                    "postalCode": "78537",
+                    "cc": "US",
+                    "city": "Donna",
+                    "state": "TX",
+                    "country": "Съединени щати",
+                    "contextLine": "Donna, TX",
+                    "contextGeoId": 72057594042614529,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">3302 E Business Hwy 83<\/span>",
+                        "<span itemprop=\"addressLocality\">Donna<\/span>, <span itemprop=\"addressRegion\">TX<\/span> <span itemprop=\"postalCode\">78537<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/7eleven\/5f3c303ed44f5d78c31a4ceb",
+                "canonicalPath": "\/v\/7eleven\/5f3c303ed44f5d78c31a4ceb",
+                "categories": [
+                    {
+                        "id": "4d954b0ea243a5684a65b473",
+                        "name": "Convenience Store",
+                        "pluralName": "Convenience Stores",
+                        "shortName": "Convenience Store",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/conveniencestore_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "556f676fbd6a75a99038d8e9"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "51254dfde4b0ca89e8e26380",
+                "name": "California Billards Club",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.5240993806765,
+                    "lng": -122.06000471452006,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.5240993806765,
+                            "lng": -122.06000471452006
+                        }
+                    ],
+                    "distance": 2805,
+                    "postalCode": "94086",
+                    "cc": "US",
+                    "city": "Сънивейл",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Сънивейл, CA",
+                    "contextGeoId": 9151314443941706298,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1057;&#1098;&#1085;&#1080;&#1074;&#1077;&#1081;&#1083;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94086<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/california-billards-club\/51254dfde4b0ca89e8e26380",
+                "canonicalPath": "\/v\/california-billards-club\/51254dfde4b0ca89e8e26380",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d11d941735",
+                        "name": "Sports Bar",
+                        "pluralName": "Sports Bars",
+                        "shortName": "Sports Bar",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/sportsbar_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/nightlife\/pub",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 4,
+                    "checkinsCount": 4
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "42966300f964a52055241fe3",
+                "name": "Dumbarton Bridge",
+                "contact": {
+                },
+                "location": {
+                    "address": "Highway 84",
+                    "crossStreet": "btwn Menlo Park & Fremont",
+                    "lat": 37.505643,
+                    "lng": -122.118973,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.505643,
+                            "lng": -122.118973
+                        }
+                    ],
+                    "distance": 3613,
+                    "postalCode": "94536",
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -1872900000,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">Highway 84<\/span> (btwn Menlo Park &amp; Fremont)",
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94536<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/dumbarton-bridge\/42966300f964a52055241fe3",
+                "canonicalPath": "\/v\/dumbarton-bridge\/42966300f964a52055241fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1df941735",
+                        "name": "Bridge",
+                        "pluralName": "Bridges",
+                        "shortName": "Bridge",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/bridge_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 22,
+                    "usersCount": 3216,
+                    "checkinsCount": 15861
+                },
+                "venueRatingBlacklisted": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "4b31109ef964a52070ff24e3",
+                "name": "Durham School Services",
+                "contact": {
+                },
+                "location": {
+                    "address": "917 Bransten Rd",
+                    "crossStreet": "industrial rd",
+                    "lat": 37.506566,
+                    "lng": -122.25221699999999,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.506566,
+                            "lng": -122.25221699999999
+                        },
+                        {
+                            "label": "entrance",
+                            "lat": 37.506943,
+                            "lng": -122.252115
+                        }
+                    ],
+                    "distance": 15376,
+                    "postalCode": "94070",
+                    "cc": "US",
+                    "city": "San Carlos",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "San Carlos, CA",
+                    "contextGeoId": 72057594043319696,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">917 Bransten Rd<\/span> (industrial rd)",
+                        "<span itemprop=\"addressLocality\">San Carlos<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94070<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/durham-school-services\/4b31109ef964a52070ff24e3",
+                "canonicalPath": "\/v\/durham-school-services\/4b31109ef964a52070ff24e3",
+                "categories": [
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 1,
+                    "usersCount": 6,
+                    "checkinsCount": 7
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "60ee46ec0973ab7391bcfcfd",
+                "name": "Newark Slough Learning Center",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.532754,
+                    "lng": -122.074072,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.532754,
+                            "lng": -122.074072
+                        }
+                    ],
+                    "distance": 3286,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -209543313,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/newark-slough-learning-center\/60ee46ec0973ab7391bcfcfd",
+                "canonicalPath": "\/v\/newark-slough-learning-center\/60ee46ec0973ab7391bcfcfd",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d162941735",
+                        "name": "Other Great Outdoors",
+                        "pluralName": "Other Great Outdoors",
+                        "shortName": "Other Outdoors",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/outdoors_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 4,
+                    "checkinsCount": 4
+                },
+                "venueRatingBlacklisted": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "60709671cf76e03d49abfb63",
+                "name": "Tidelands Trail Loop",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.529526,
+                    "lng": -122.069681,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.529526,
+                            "lng": -122.069681
+                        }
+                    ],
+                    "distance": 3001,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -2136218991,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/tidelands-trail-loop\/60709671cf76e03d49abfb63",
+                "canonicalPath": "\/v\/tidelands-trail-loop\/60709671cf76e03d49abfb63",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d159941735",
+                        "name": "Trail",
+                        "pluralName": "Trails",
+                        "shortName": "Trail",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/hikingtrail_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/hikingtrail",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 7,
+                    "checkinsCount": 9
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f68eba3e4fb37793abd9004",
+                "name": "Redner's",
+                "contact": {
+                },
+                "location": {
+                    "address": "3205 N 5th Street Hwy",
+                    "lat": 40.382464,
+                    "lng": -75.92544,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.382464,
+                            "lng": -75.92544
+                        }
+                    ],
+                    "distance": 3963395,
+                    "postalCode": "19605",
+                    "cc": "US",
+                    "city": "Рединг",
+                    "state": "PA",
+                    "country": "Съединени щати",
+                    "contextLine": "Рединг, PA",
+                    "contextGeoId": 72057594043135664,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">3205 N 5th Street Hwy<\/span>",
+                        "<span itemprop=\"addressLocality\">&#1056;&#1077;&#1076;&#1080;&#1085;&#1075;<\/span>, <span itemprop=\"addressRegion\">PA<\/span> <span itemprop=\"postalCode\">19605<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/redners\/5f68eba3e4fb37793abd9004",
+                "canonicalPath": "\/v\/redners\/5f68eba3e4fb37793abd9004",
+                "categories": [
+                    {
+                        "id": "4d954b0ea243a5684a65b473",
+                        "name": "Convenience Store",
+                        "pluralName": "Convenience Stores",
+                        "shortName": "Convenience Store",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/conveniencestore_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 4,
+                    "checkinsCount": 8
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "5f651c114a64d95e74b556b7"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "56bcee21498e8a650bd7fcee",
+                "name": "Dumbarton pier",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.510445,
+                    "lng": -122.11117,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.510445,
+                            "lng": -122.11117
+                        }
+                    ],
+                    "distance": 3019,
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": 9151314443726512486,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/dumbarton-pier\/56bcee21498e8a650bd7fcee",
+                "canonicalPath": "\/v\/dumbarton-pier\/56bcee21498e8a650bd7fcee",
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a0f",
+                        "name": "Fishing Spot",
+                        "pluralName": "Fishing Spots",
+                        "shortName": "Fishing Spot",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_fishmarket_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/fish_market",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 30,
+                    "checkinsCount": 44
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5456a356498eade8af83d5b2",
+                "name": "Picnic Shelter",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.53178,
+                    "lng": -122.075694,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.53178,
+                            "lng": -122.075694
+                        }
+                    ],
+                    "distance": 3165,
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -1494155819,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/picnic-shelter\/5456a356498eade8af83d5b2",
+                "canonicalPath": "\/v\/picnic-shelter\/5456a356498eade8af83d5b2",
+                "categories": [
+                    {
+                        "id": "5fac010d99ce226e27fe7467",
+                        "name": "Picnic Shelter",
+                        "pluralName": "Picnic Shelters",
+                        "shortName": "Picnic Shelters",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/restarea_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/travel\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 15,
+                    "checkinsCount": 21
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5194eeae498e537d624c7392",
+                "name": "Fitness Center - Aloft Silicon Valley",
+                "contact": {
+                },
+                "location": {
+                    "address": "8200 Gateway Blvd",
+                    "lat": 37.536271,
+                    "lng": -122.06276000000001,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.536271,
+                            "lng": -122.06276000000001
+                        }
+                    ],
+                    "distance": 3902,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": 9151314443497396864,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">8200 Gateway Blvd<\/span>",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/fitness-center--aloft-silicon-valley\/5194eeae498e537d624c7392",
+                "canonicalPath": "\/v\/fitness-center--aloft-silicon-valley\/5194eeae498e537d624c7392",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d176941735",
+                        "name": "Gym",
+                        "pluralName": "Gyms",
+                        "shortName": "Gym",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/gym_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/building\/gym",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 45,
+                    "checkinsCount": 98
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "61ec31ec106f9b7b96473287",
+                "name": "Dumbarton Quarry Campground on the Bay",
+                "contact": {
+                },
+                "location": {
+                    "address": "9400 Quarry Rd",
+                    "lat": 37.536946,
+                    "lng": -122.073044,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.536946,
+                            "lng": -122.073044
+                        }
+                    ],
+                    "distance": 3760,
+                    "postalCode": "94555",
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": 9151314444368192466,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">9400 Quarry Rd<\/span>",
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94555<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/dumbarton-quarry-campground-on-the-bay\/61ec31ec106f9b7b96473287",
+                "canonicalPath": "\/v\/dumbarton-quarry-campground-on-the-bay\/61ec31ec106f9b7b96473287",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e4941735",
+                        "name": "Campground",
+                        "pluralName": "Campgrounds",
+                        "shortName": "Campground",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/campground_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/campground",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 4,
+                    "checkinsCount": 4
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "60ee4866a7ddae4973a526dd",
+                "name": "Quarry Trail",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.534974,
+                    "lng": -122.074694,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.534974,
+                            "lng": -122.074694
+                        }
+                    ],
+                    "distance": 3526,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -1187940164,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/quarry-trail\/60ee4866a7ddae4973a526dd",
+                "canonicalPath": "\/v\/quarry-trail\/60ee4866a7ddae4973a526dd",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d159941735",
+                        "name": "Trail",
+                        "pluralName": "Trails",
+                        "shortName": "Trail",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/hikingtrail_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/hikingtrail",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 2,
+                    "checkinsCount": 4
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f65283e4bc0c161b3a2e548",
+                "name": "Redner's",
+                "contact": {
+                },
+                "location": {
+                    "address": "722 PA-100",
+                    "lat": 40.356963,
+                    "lng": -75.627567,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.356963,
+                            "lng": -75.627567
+                        }
+                    ],
+                    "distance": 3988744,
+                    "postalCode": "19505",
+                    "cc": "US",
+                    "city": "Bechtelsville",
+                    "state": "PA",
+                    "country": "Съединени щати",
+                    "contextLine": "Bechtelsville, PA",
+                    "contextGeoId": 72057594043107550,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">722 PA-100<\/span>",
+                        "<span itemprop=\"addressLocality\">Bechtelsville<\/span>, <span itemprop=\"addressRegion\">PA<\/span> <span itemprop=\"postalCode\">19505<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/redners\/5f65283e4bc0c161b3a2e548",
+                "canonicalPath": "\/v\/redners\/5f65283e4bc0c161b3a2e548",
+                "categories": [
+                    {
+                        "id": "4d954b0ea243a5684a65b473",
+                        "name": "Convenience Store",
+                        "pluralName": "Convenience Stores",
+                        "shortName": "Convenience Store",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/conveniencestore_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 2,
+                    "checkinsCount": 2
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "5f651c114a64d95e74b556b7"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "4b79913bf964a520f6012fe3",
+                "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
+                "contact": {
+                    "phone": "5107458695",
+                    "formattedPhone": "(510) 745-8695"
+                },
+                "location": {
+                    "address": "1 Marshlands Rd",
+                    "crossStreet": "at Thorton Ave",
+                    "lat": 37.53201911208416,
+                    "lng": -122.07150210860584,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.53201911208416,
+                            "lng": -122.07150210860584
+                        },
+                        {
+                            "label": "entrance",
+                            "lat": 37.531554,
+                            "lng": -122.073307
+                        }
+                    ],
+                    "distance": 3238,
+                    "postalCode": "94555",
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": -1811310981,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">1 Marshlands Rd<\/span> (at Thorton Ave)",
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94555<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/don-edwards-san-francisco-bay-national-wildlife-refuge\/4b79913bf964a520f6012fe3",
+                "canonicalPath": "\/v\/don-edwards-san-francisco-bay-national-wildlife-refuge\/4b79913bf964a520f6012fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d163941735",
+                        "name": "Park",
+                        "pluralName": "Parks",
+                        "shortName": "Park",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 9,
+                    "usersCount": 896,
+                    "checkinsCount": 2175
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "4ef361e8e300e92b9ed1adca",
+                "name": "SBS Inc",
+                "contact": {
+                },
+                "location": {
+                    "address": "8407 Central Ave",
+                    "lat": 37.517773,
+                    "lng": -122.04468,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.517773,
+                            "lng": -122.04468
+                        }
+                    ],
+                    "distance": 3359,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": 9151314443215560126,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">8407 Central Ave<\/span>",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/sbs-inc\/4ef361e8e300e92b9ed1adca",
+                "canonicalPath": "\/v\/sbs-inc\/4ef361e8e300e92b9ed1adca",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/building\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 3,
+                    "checkinsCount": 8
+                },
+                "venueRatingBlacklisted": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f6a226afcfc0b7ec165f011",
+                "name": "Bath & Body Works",
+                "contact": {
+                    "phone": "9402202149",
+                    "formattedPhone": "(940) 220-2149",
+                    "twitter": "bathbodyworks"
+                },
+                "location": {
+                    "address": "2640 W University Dr",
+                    "lat": 33.232181,
+                    "lng": -97.165639,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 33.232181,
+                            "lng": -97.165639
+                        }
+                    ],
+                    "distance": 2303680,
+                    "postalCode": "76201",
+                    "cc": "US",
+                    "city": "Дентън",
+                    "state": "TX",
+                    "country": "Съединени щати",
+                    "contextLine": "Дентън, TX",
+                    "contextGeoId": 72057594042613843,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">2640 W University Dr<\/span>",
+                        "<span itemprop=\"addressLocality\">&#1044;&#1077;&#1085;&#1090;&#1098;&#1085;<\/span>, <span itemprop=\"addressRegion\">TX<\/span> <span itemprop=\"postalCode\">76201<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/bath--body-works\/5f6a226afcfc0b7ec165f011",
+                "canonicalPath": "\/v\/bath--body-works\/5f6a226afcfc0b7ec165f011",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10c951735",
+                        "name": "Cosmetics Shop",
+                        "pluralName": "Cosmetics Shops",
+                        "shortName": "Cosmetics",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/beauty_cosmetic_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/beauty_cosmetic",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 5,
+                    "checkinsCount": 9
+                },
+                "url": "http:\/\/www.bathandbodyworks.com",
+                "urlSig": "G4wOSwNJeK73tro04uL2nvraet4=",
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "58f7c1883731ee4e4fea09c9",
+                "name": "Lennar at Lighthouse",
+                "contact": {
+                    "phone": "8882162330",
+                    "formattedPhone": "(888) 216-2330",
+                    "twitter": "lennar",
+                    "facebook": "1514134578617646",
+                    "facebookName": "Lennar at Lighthouse"
+                },
+                "location": {
+                    "address": "37537 Willow St.",
+                    "lat": 37.51938247680664,
+                    "lng": -122.05011749267578,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.51938247680664,
+                            "lng": -122.05011749267578
+                        }
+                    ],
+                    "distance": 3047,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": -1158784613,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">37537 Willow St.<\/span>",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/lennar-at-lighthouse\/58f7c1883731ee4e4fea09c9",
+                "canonicalPath": "\/v\/lennar-at-lighthouse\/58f7c1883731ee4e4fea09c9",
+                "categories": [
+                    {
+                        "id": "545419b1498ea6ccd0202f58",
+                        "name": "Home Service",
+                        "pluralName": "Home Services & Repairs",
+                        "shortName": "Home Services",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/hardware_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/hardware",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 11,
+                    "checkinsCount": 126
+                },
+                "url": "https:\/\/www.lennar.com\/new-homes\/california\/san-francisco-bay-area\/newark\/lighthouse",
+                "urlSig": "ZIZS3RNXyY6Mzi7zRsWZyEwsKxY=",
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "556cfc3faceaff43eb0690b5"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "4d94cb5f7320a090bd651640",
+                "name": "Newark Pier",
+                "contact": {
+                },
+                "location": {
+                    "address": "Marshlands Rd",
+                    "lat": 37.51057154231338,
+                    "lng": -122.11107889297992,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.51057154231338,
+                            "lng": -122.11107889297992
+                        }
+                    ],
+                    "distance": 3015,
+                    "postalCode": "94555",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": 9151314443450153197,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">Marshlands Rd<\/span>",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94555<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/newark-pier\/4d94cb5f7320a090bd651640",
+                "canonicalPath": "\/v\/newark-pier\/4d94cb5f7320a090bd651640",
+                "categories": [
+                    {
+                        "id": "4e74f6cabd41c4836eac4c31",
+                        "name": "Pier",
+                        "pluralName": "Piers",
+                        "shortName": "Piers",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/ferry_pier_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/travel\/boat",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 51,
+                    "checkinsCount": 87
+                },
+                "venueRatingBlacklisted": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f58f5399cbb093cd158008b",
+                "name": "Shell",
+                "contact": {
+                },
+                "location": {
+                    "address": "6125 FL-100 E",
+                    "lat": 29.475472,
+                    "lng": -81.181579,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 29.475472,
+                            "lng": -81.181579
+                        }
+                    ],
+                    "distance": 3868732,
+                    "postalCode": "32136",
+                    "cc": "US",
+                    "city": "Flagler Beach",
+                    "state": "FL",
+                    "country": "Съединени щати",
+                    "contextLine": "Flagler Beach, FL",
+                    "contextGeoId": 72057594042083469,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">6125 FL-100 E<\/span>",
+                        "<span itemprop=\"addressLocality\">Flagler Beach<\/span>, <span itemprop=\"addressRegion\">FL<\/span> <span itemprop=\"postalCode\">32136<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/shell\/5f58f5399cbb093cd158008b",
+                "canonicalPath": "\/v\/shell\/5f58f5399cbb093cd158008b",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d113951735",
+                        "name": "Gas Station",
+                        "pluralName": "Gas Stations",
+                        "shortName": "Gas Station",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/gas_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/gas",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 1,
+                    "checkinsCount": 1
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5c2666def5e9d7002c3a9b04",
+                "name": "Glass Bay Playground",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.520427,
+                    "lng": -122.047887,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.520427,
+                            "lng": -122.047887
+                        }
+                    ],
+                    "distance": 3275,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": -1136210302,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/glass-bay-playground\/5c2666def5e9d7002c3a9b04",
+                "canonicalPath": "\/v\/glass-bay-playground\/5c2666def5e9d7002c3a9b04",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/playground_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/playground",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 1,
+                    "usersCount": 8,
+                    "checkinsCount": 31
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5f65013a195b877a9d05da53",
+                "name": "Bath & Body Works",
+                "contact": {
+                },
+                "location": {
+                    "address": "2845 Center Valley Pkwy",
+                    "lat": 40.560494,
+                    "lng": -75.410757,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.560494,
+                            "lng": -75.410757
+                        }
+                    ],
+                    "distance": 4002564,
+                    "postalCode": "18034",
+                    "cc": "US",
+                    "city": "Center Valley",
+                    "state": "PA",
+                    "country": "Съединени щати",
+                    "contextLine": "Center Valley, PA",
+                    "contextGeoId": 72057594043111606,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">2845 Center Valley Pkwy<\/span>",
+                        "<span itemprop=\"addressLocality\">Center Valley<\/span>, <span itemprop=\"addressRegion\">PA<\/span> <span itemprop=\"postalCode\">18034<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/bath--body-works\/5f65013a195b877a9d05da53",
+                "canonicalPath": "\/v\/bath--body-works\/5f65013a195b877a9d05da53",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10c951735",
+                        "name": "Cosmetics Shop",
+                        "pluralName": "Cosmetics Shops",
+                        "shortName": "Cosmetics",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/beauty_cosmetic_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/beauty_cosmetic",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 8,
+                    "checkinsCount": 10
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                    {
+                        "id": "556e092ea7c82e6b724ee2eb"
+                    }
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "5d7015e82888ba00082bc3a8",
+                "name": "Morris & Sons Towing \u2013 East Bay",
+                "contact": {
+                },
+                "location": {
+                    "address": "8150 Enterprise Dr",
+                    "lat": 37.521167,
+                    "lng": -122.04491200000001,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.521167,
+                            "lng": -122.04491200000001
+                        }
+                    ],
+                    "distance": 3538,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": -1288508119,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">8150 Enterprise Dr<\/span>",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/morris--sons-towing--east-bay\/5d7015e82888ba00082bc3a8",
+                "canonicalPath": "\/v\/morris--sons-towing--east-bay\/5d7015e82888ba00082bc3a8",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/building\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 3,
+                    "checkinsCount": 4
+                },
+                "venueRatingBlacklisted": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "4c8b2b851797236a21e76888",
+                "name": "Bridgepoint Park",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.534411436806494,
+                    "lng": -122.05478831405367,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.534411436806494,
+                            "lng": -122.05478831405367
+                        }
+                    ],
+                    "distance": 4020,
+                    "postalCode": "94560",
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": 9151314444844560240,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">94560<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/bridgepoint-park\/4c8b2b851797236a21e76888",
+                "canonicalPath": "\/v\/bridgepoint-park\/4c8b2b851797236a21e76888",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/playground_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/parks_outdoors\/playground",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 54,
+                    "checkinsCount": 107
+                },
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "4d69cdb182cba0935eccdfd8",
+                "name": "Dumbarton Toll Plaza",
+                "contact": {
+                },
+                "location": {
+                    "lat": 37.5349654225532,
+                    "lng": -122.07633644342421,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.5349654225532,
+                            "lng": -122.07633644342421
+                        }
+                    ],
+                    "distance": 3516,
+                    "cc": "US",
+                    "city": "Фримонт",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Фримонт, CA",
+                    "contextGeoId": 9151314443414677545,
+                    "formattedAddress": [
+                        "<span itemprop=\"addressLocality\">&#1060;&#1088;&#1080;&#1084;&#1086;&#1085;&#1090;<\/span>, <span itemprop=\"addressRegion\">CA<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/dumbarton-toll-plaza\/4d69cdb182cba0935eccdfd8",
+                "canonicalPath": "\/v\/dumbarton-toll-plaza\/4d69cdb182cba0935eccdfd8",
+                "categories": [
+                    {
+                        "id": "52f2ab2ebcbc57f1066b8b4e",
+                        "name": "Toll Plaza",
+                        "pluralName": "Toll Plazas",
+                        "shortName": "Toll Plaza",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/travel\/default",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 7,
+                    "usersCount": 1157,
+                    "checkinsCount": 5379
+                },
+                "venueRatingBlacklisted": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            },
+            {
+                "id": "51947bb6498e010234c337fa",
+                "name": "w xyz - Aloft Silicon Valley",
+                "contact": {
+                },
+                "location": {
+                    "address": "8200 Gateway Blvd",
+                    "crossStreet": "At 1\/F of Aloft Silicon Valley",
+                    "lat": 37.536271,
+                    "lng": -122.06276000000001,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 37.536271,
+                            "lng": -122.06276000000001
+                        },
+                        {
+                            "label": "entrance",
+                            "lat": 37.536529,
+                            "lng": -122.062898
+                        }
+                    ],
+                    "distance": 3902,
+                    "cc": "US",
+                    "city": "Newark",
+                    "state": "CA",
+                    "country": "Съединени щати",
+                    "contextLine": "Newark, CA",
+                    "contextGeoId": 9151314444943716002,
+                    "formattedAddress": [
+                        "<span itemprop=\"streetAddress\">8200 Gateway Blvd<\/span> (At 1\/F of Aloft Silicon Valley)",
+                        "<span itemprop=\"addressLocality\">Newark<\/span>, <span itemprop=\"addressRegion\">CA<\/span>"
+                    ]
+                },
+                "canonicalUrl": "https:\/\/foursquare.com\/v\/w-xyz--aloft-silicon-valley\/51947bb6498e010234c337fa",
+                "canonicalPath": "\/v\/w-xyz--aloft-silicon-valley\/51947bb6498e010234c337fa",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1d5941735",
+                        "name": "Hotel Bar",
+                        "pluralName": "Hotel Bars",
+                        "shortName": "Hotel Bar",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/hotel_bar_",
+                            "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/nightlife\/hotelbar",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 2,
+                    "usersCount": 93,
+                    "checkinsCount": 191
+                },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                    "lastCheckinExpiredAt": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": [
+                    ]
+                },
+                "referralId": "v-1654641541",
+                "venueChains": [
+                ],
+                "hasPerk": false
+            }
+        ],
+        "confident": false
+    }
+}

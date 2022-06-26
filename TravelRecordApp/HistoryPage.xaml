@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelRecordApp.HistoryPage">
+    <StackLayout>
+        <SearchBar Placeholder="Search Keyword" TextChanged="searchBar_TextChanged"/>
+
+        <ListView x:Name="postListView"
+              ItemSelected="postListView_ItemSelected">
+            <!--<ListView.ItemsSource>
+                <x:Array>
+                    <TextCell Text="{Binding Experience}"/>
+                    <TextCell Text="{Binding VenueName}"/>
+                </x:Array>
+            </ListView.ItemsSource>-->
+            
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell 
+                        Text="{Binding Experience}"
+                        Detail="{Binding CreatedOn}" />
+                </DataTemplate>
+               
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+        <Label Text="Order By" x:Name="SortLabel"/>
+        <Picker x:Name="Filters">
+            <Picker.Items>
+                <x:String>Category</x:String>
+                <x:String>Experience</x:String>
+                <x:String>Venue Name</x:String>
+                <x:String>Address</x:String>
+                <x:String>Distance</x:String>
+                <x:String>Date</x:String>
+            </Picker.Items>
+        </Picker>
+        <Button Text="Order" Clicked="Button_Clicked" x:Name="SortButton"/>
+
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973896409439-d8j84o5u6qv9ceq18v0d8tar9h7g8ghf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973896409439-d8j84o5u6qv9ceq18v0d8tar9h7g8ghf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBF4JrJN0w-Qc9MKg42EX5FN6VBWODBCMg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973896409439</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.companyname.TravelRecordApp</string>
+	<key>PROJECT_ID</key>
+	<string>travelrecordappxamarin-352311</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelrecordappxamarin-352311.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973896409439:ios:bf0097ef1003594f8916ea</string>
+</dict>
+</plist>

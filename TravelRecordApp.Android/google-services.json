@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "973896409439",
+    "project_id": "travelrecordappxamarin-352311",
+    "storage_bucket": "travelrecordappxamarin-352311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973896409439:android:adddd46aad6163978916ea",
+        "android_client_info": {
+          "package_name": "com.companyname.travelrecordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973896409439-4mlabd3c03nku8jk1lfbrr0dccmnvrlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jn0Yg6xzV8upRQv0dA9biraWsluGLEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973896409439-4mlabd3c03nku8jk1lfbrr0dccmnvrlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973896409439-d8j84o5u6qv9ceq18v0d8tar9h7g8ghf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.companyname.TravelRecordApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
